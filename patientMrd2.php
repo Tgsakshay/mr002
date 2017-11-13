@@ -110,7 +110,7 @@ $stt1=array_reverse($st1);
 								<div class="tab-content">
 								<div class="tab-pane active" id="tab_1">
 							
-										
+								<p>edited code</p>		
 										<div class="portlet-body form">
 						  <?php 
 							$str3er = explode(',',$mrdchkstatus);
