@@ -7,7 +7,7 @@ foreach($result as $ft)
 // die();
 
 
-
+12345
 ?>
 <input type='hidden' value='<?php echo $ft['uhid'] ;?>' id='uhid' hidden>
 <div class="page-content"></br>
